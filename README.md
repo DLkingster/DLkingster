@@ -1,4 +1,4 @@
-## Hi there My Name is Daren King
+## Daren King
 
 <h1>Hi, I'm Daren King, an <a href="https://linkedin.com/in/daren-king-7588b5188/">IT Professional</a>☺</h1>
 
