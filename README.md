@@ -3,7 +3,9 @@
 <h1>Hi, I'm Daren King, an <a href="https://linkedin.com/in/daren-king-7588b5188/">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
-
+- <b>Remote Desktop Connection(Help Desk Remote Desktop Connection System)</b>
+  - [Remote Desktop:Connect to IP Address](https://github.com/DLkingster/osTicket---Post-Install-Configuration)
+  - [Remote Desktop:Enter User Credentials}(https://github.com/DLkingster/ticket-lifecycle)
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/DLkingster/ostickets-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/DLkingster/osTicket---Post-Install-Configuration)
