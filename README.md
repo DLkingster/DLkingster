@@ -13,7 +13,7 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/DLkingster/azure-network-protocols)  
 - <b>Remote Desktop Connection(Help Desk Remote Desktop Connection System)</b>
   - [Remote Desktop:Connect to IP Address](https://github.com/DLkingster/osTicket---Post-Install-Configuration)
-  - [Remote Desktop:Enter User Credentials}(https://github.com/DLkingster/ticket-lifecycle)
+  - [Remote Desktop:Enter User Credentials](https://github.com/DLkingster/ticket-lifecycle)
   
 <h2>🤳Connect with me:</h2>
 
